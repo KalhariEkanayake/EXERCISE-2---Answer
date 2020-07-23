@@ -23,7 +23,7 @@
  
  ### UI After Added New Bank-Branch
  
- That added details link to the Bank-Branch list & it shown as below.
+ That added details link to the Bank-Branch list & it shown as below. (You can see the new Bank-Branch record added as, Branch Id 5, Seylan Bank, Kalutara Branch, Branch Code 200)
  
  >![Alt text](images/UI_After_Added_New_Branch.jpg)
  
