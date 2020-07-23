@@ -14,7 +14,7 @@
  >![Alt text](images/Bank-Branch_List_UI.jpg)
 
  
- ### Add Bank-Branch UI
+ ### UI of Add a Bank-Branch
  
  When clicking the "Add Branch" button, the form for the add new Bank-Branch details displays as below.
  
@@ -28,21 +28,21 @@
  >![Alt text](images/UI_After_Added_New_Branch.jpg)
  
  
- ### Edit Bank-Branch UI
+ ### UI of Edit Bank-Branch 
  
  The edit/update Bank-Branch details form. In here show the already exist Bank-Branch details & can do changes to it.
  
  >![Alt text](images/Edit_Branch_UI.jpg)
  
  
- ### UI After edit Bank-Branch
+ ### UI After edited Bank-Branch
  
- Edit Bank-Branch details link to the Bank-Branch list & edited new Bank-Branch details shows in the Bank-Branch List. (You can see the Branch Id 1, Sampath Bank, Kiribathgoda branch updated as Galle branch)
+ Edit Bank-Branch details link to the Bank-Branch list & edited new Bank-Branch details shows in the Bank-Branch List. (You can see the Branch Id 1, Sampath Bank, Kiribathgoda Branch Name updated as Galle branch)
  
  >![Alt text](images/UI_After_Edit_Branch.jpg)
  
  
- ### Delete Bank-Branch UI
+ ### UI of Delete Bank-Branch 
  
  User can delete Bank-Branch details by clicking the "Delete" button.
 
