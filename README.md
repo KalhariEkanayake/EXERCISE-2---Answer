@@ -16,28 +16,28 @@
  
  ### Add Bank-Branch UI
  
- The form for the add new Bank-Branch details.
+ When clicking the "Add Branch" button, the form for the add new Bank-Branch details displays as below.
  
  >![Alt text](images/Add_Branch_UI.jpg)
  
  
  ### UI After Added New Bank-Branch
  
- That added details link to the Bank-Branch list & it shown as below. (You can see the new Bank-Branch record added as, Branch Id 5, Seylan Bank, Kalutara Branch, Branch Code 200)
+ Add Bank-Branch details link to the Bank-Branch list & added new Bank-Branch details shows in the Bank-Branch List. (You can see the new Bank-Branch record added as, Branch Id 5, Seylan Bank, Kalutara Branch, Branch Code 200)
  
  >![Alt text](images/UI_After_Added_New_Branch.jpg)
  
  
  ### Edit Bank-Branch UI
  
- The edit/update Bank-Branch details form. In here show the already exist details & can do changes to it.
+ The edit/update Bank-Branch details form. In here show the already exist Bank-Branch details & can do changes to it.
  
  >![Alt text](images/Edit_Branch_UI.jpg)
  
  
  ### UI After edit Bank-Branch
  
- That edited details link to the Bank-Branch list & it shown as below. (You can see the Branch Id 1, Sampath Bank, Kiribathgoda branch updated as Galle branch)
+ Edit Bank-Branch details link to the Bank-Branch list & edited new Bank-Branch details shows in the Bank-Branch List. (You can see the Branch Id 1, Sampath Bank, Kiribathgoda branch updated as Galle branch)
  
  >![Alt text](images/UI_After_Edit_Branch.jpg)
  
