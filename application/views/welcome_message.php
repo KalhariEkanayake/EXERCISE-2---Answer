@@ -11,8 +11,8 @@
 		<?php echo anchor('welcome/create', 'Add Branch', ['class'=>'btn btn-info']);?>
 		
 		<table class="table table-striped table-hover">
-			<thead class="text-center">
-				<tr>
+			<thead class="thead-dark">
+				<tr class="text-center">
 					<th scope="col">Branch Id</th>
 	  				<th scope="col">Bank Name</th>
       				<th scope="col">Branch Name </th>

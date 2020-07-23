@@ -8,6 +8,9 @@
             }
         }
 
+        /*
+         * Add Bank-Branch
+         */
         public function addBranch($data){
             return $this->db->insert('tbl_bank_branches', $data);
         }
@@ -19,11 +22,17 @@
             }
         }
 
+        /*
+         * Update Bank-Branch
+         */ 
         public function updateBranch($data, $bank_branch_id){
             return $this->db->where('bank_branch_id', $bank_branch_id)
             ->update('tbl_bank_branches', $data);
         }
 
+        /*
+         * Delete Bank-Branch
+         */
         public function deleteBranch($bank_branch_id){
             return $this->db->delete('tbl_bank_branches', ['bank_branch_id'=>$bank_branch_id]);
         }
