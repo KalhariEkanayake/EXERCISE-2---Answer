@@ -2,4 +2,4 @@
  
  Add Bank-Branch add/edit feature for the next release. 
  
- ![Alt text](images/Bank-Branch List UI.jpg?raw=true "Bank-Branch List UI")
+ ![Alt text](images/Bank-Branch_List_UI.jpg "Bank-Branch List UI")
